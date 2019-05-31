@@ -23,3 +23,28 @@ php flarum cache:clear
 ### Links
 
 - [Packagist](https://packagist.org/packages/reflar/traditional-rank-icons)
+
+
+TR(Turkish)
+
+
+
+### Kurulum
+
+[Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) eklentisini kullanarak veya manuel olarak composer ile:
+
+```sh
+composer require reflar/traditional-rank-icons
+```
+
+### Güncelleme
+
+```sh
+composer update reflar/traditional-rank-icons
+php flarum cache:clear
+```
+
+### Linkler
+
+- [Packagist](https://packagist.org/packages/reflar/traditional-rank-icons)
+
